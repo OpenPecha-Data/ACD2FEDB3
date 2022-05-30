@@ -1,0 +1,22 @@
+segment_sources:
+  IB49D81A3:
+    type: origin_type
+    relation: translation
+    language: en
+  IB1A3BA6F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9b3416fc30f74676864ec6dee0026c79:
+    IB49D81A3: 816aa75a5be34421ad7bb9e5b5ac0b33
+    IB1A3BA6F: bdcc8fb3316e47d49a3d373a3a28c09e
+  34414eac1bb04670a124f3652a2662a8:
+    IB49D81A3: 40d41bfb8bef4fb0a2a1e26c4847eed9
+    IB1A3BA6F: 9d5fd09d6db14c33ae4af22106878348
+  5289d3cd6bab455e8ec0e7351525ab33:
+    IB49D81A3: 16a066acf5d64946a8b96affc4bbe61d
+    IB1A3BA6F: 3d039ab889344087bf0c4f354b0eebec
+  48b94fa209364002817323da0d298abc:
+    IB49D81A3: 14e446f6226247af95f86d07c7d8adb6
+    IB1A3BA6F: 74a8aa9d6caf4a3eb5cc705d588ee915
